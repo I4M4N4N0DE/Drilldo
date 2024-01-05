@@ -1,0 +1,325 @@
+[
+    {
+        "number": 1,
+        "question": "Ze stejného okna jsou ve stejném čase objekt A upuštěn a padá dolů, \n objekt B je vržen směrem dolů a objekt C vržen směrem nahoru. \n Které z následujících tvrzení je poté, co objekty opustí výchozí pozici, pravdivé? Odpor vzduchu lze zanedbat..",
+        "image": "",
+        
+        "answers" : [
+        {"text" : "V určitém okamžiku je zrychlení objektu C nulové",
+    "correct": false},
+            
+        {"text": "Všechny objekty dopadnou na zem ve stejném čase",
+    "correct": false},
+
+        {"text": "Všechny objekty mají v každém čase stejnou rychlost",
+    "correct":false},
+
+        {"text": "Všechny objekty mají v každém čase stejné zrychlení",
+    "correct": true},
+
+        {"text": "Všechny objekty dopadnou na zem stejnou rychlostí",
+    "correct": false}
+        ]
+    },
+
+    {
+        "number": 2,
+        "question": "Kámen padá volným pádem, tj. s nulovou počáteční rychlostí a s tíhovým zrychlením g, \n z bodu A přes bod B do bodu C (viz obrázek). Bod B je uprostřed mezi body A a C. \n Odpor vzduchu neuvažujte. V kterém bodě má kámen největší celkovou mechanickou energii?",
+        "image": "https://moodle.vut.cz/pluginfile.php/588001/question/questiontext/423129/2/52408248/volny_pad.png",
+
+        "answers": [
+            {"text": "v bodě A",
+        "correct": false},
+            {"text": "v bodě B",
+        "correct": false},
+            {"text": "v bodě C",
+        "correct": false},
+            {"text": "ve všech bodech stejnou",
+        "correct": true},
+            {"text": "v žádném z uvedených",
+        "correct": false}
+        ]
+    },
+
+    {
+        "number": 3,
+        "question": "Na kotouč o poloměru r, který je otáčivý kolem nehybné osy o jdoucí jeho středem, působí dvě rovnoběžné síly. \n Čtyři různé případy působení těchto sil jsou znázorněny na obrázku. Síly  F1 a F1^I  mají stejnou velikost F, síla F_2 má velikost 2F. \n V kterých případech se otáčivé účinky sil navzájem ruší?",
+        "image":"https://moodle.vut.cz/pluginfile.php/588001/question/questiontext/423129/3/52408263/rotace_1.png",
+
+        "answers":[
+            {"text":"v žádném případě",
+        "correct":false},
+            {"text": "v případech 2 a 4",
+        "correct": false},
+            {"text": "v případech 2 a 3",
+        "correct": true},
+            {"text": "jen v případě 2",
+        "correct": false},
+            {"text": "jen v případě 3",
+        "correct":false}
+        ]   
+    },
+
+    {
+        "number": 4,
+        "question": "Dřevěný kvádr je tažen silou F po drsné podložce, jak je pro dva různé případy vidět na obrázku. \n Velikost síly je pro oba případy stejná. \n Normálová síla, kterou působí podložka na kvádr v situaci (b), je ve srovnání se situací (a):",
+        "image":"https://moodle.vut.cz/pluginfile.php/588001/question/questiontext/423129/4/52408255/image012.png",
+
+        "answers":[
+            {"text": "stejná",
+        "correct": false},
+            {"text": "větší",
+        "correct": false},
+            {"text": "menší",
+        "correct": true},
+            {"text": "menší pro některé úhly alfa  a větší pro úhly ostatní",
+        "correct": false},
+            {"text": "menší nebo větší v závislosti na velikosti síly F",
+        "correct": false}
+        ]
+    },
+
+    {
+        "number": 5,
+        "question": "Bedna, jejíž tíha je G, je spouštěna na laně dolů po nakloněné rovině silou o velikosti F. \n Úhel, který svírá nakloněná rovina s vodorovným směrem je alfa. Koeficient dynamického tření je fd. \n Do těžiště zakreslete tíhovou sílu G. (Do obrázku vložte vektor, který má odpovídající směr a orientaci)",
+        "image":"https://moodle.vut.cz/pluginfile.php/588001/qtype_ddimageortext/bgimage/423129/5/52408268/Naklonena%20rovina%20%283%29.png",
+
+        "answers":[
+            {"text": "šipka přímo dolů",
+        "correct": true}
+        ]
+    },
+
+    {
+        "number": 6,
+        "question": "Zakreslíme-li do grafu závislost síly působící na hmotný bod na čase, bude plocha pod křivkou odpovídat",
+        "image":"",
+
+        "answers":[
+            {"text": "Uražené dráze",
+        "correct": false},
+            {"text": "Zvýšení hybnosti",
+        "correct": true},
+            {"text": "Kinetické energii",
+        "correct": false},
+            {"text": "Potenciální energii",
+        "correct": false},
+            {"text": "Celkové energii",
+        "correct": false}
+        ]
+    },
+
+    {
+        "number": 7,
+        "question": "Gaussův zákon má tvar: int. EdS = Q/epsilon0. Které z následujících tvrzení je pravdivé?",
+        "image":"",
+
+        "answers":[
+            {"text": "Jestliže Q = 0 , pak E =0  kdekoliv mimo Gaussovu plochu.",
+        "correct": false},
+            {"text": "Jestliže Gaussova plocha obklopuje 3 částice, jejichž náboje jsou +Q, +Q  a -2Q, \n je integrál roven nule.",
+        "correct": true},
+            {"text": "Na Gaussově ploše je vždy E rovnoběžné s dS.",
+        "correct":false},
+            {"text": "Jestliže je náboj umístěn tak, že není Gaussovou plochou obklopen, \n pak může ovlivnit pouze tok vektoru intenzity elektrického pole touto plochou.",
+        "correct": false},
+            {"text": "Žádné",
+        "correct": false}
+        ]
+    },
+
+    {
+        "number": 8,
+        "question": "Elektron vletí horizontálně do oblasti homogenního elektrického pole, které směřuje vertikálně nahoru. \n Jakým směrem působí na elektron síla, jakmile vstoupí do oblasti elektrického pole?",
+        "image":"https://moodle.vut.cz/pluginfile.php/588001/question/questiontext/434833/2/52408334/image007.png",
+
+        "answers":[
+            {"text": "dovnitř tohoto listu, kolmo k jeho rovině, tj. od pozorovatele",
+        "correct": false},
+            {"text": "ven z tohoto listu, kolmo k jeho rovině, tj. k pozorovateli",
+        "correct": false},
+            {"text": "nahoru",
+        "correct": false},
+            {"text": "dolů",
+        "correct": true},
+            {"text": "proti pohybu elektronu, bude z oblasti vypuzován",
+        "correct": false}
+        ]
+    },
+
+    {
+        "number": 9,
+        "question": "Vodivostní elektrony se v jistém vodiči pohybují doprava. To znamená, že v tomto vodiči",
+        "image":"",
+
+        "answers":[
+            {"text": "proudová hustota a intenzita elektrického pole jsou orientovány doprava.",
+        "correct": false},
+            {"text": "proudová hustota a intenzita elektrického pole jsou orientovány doleva.",
+        "correct":true},
+            {"text": "teče proud zleva doprava.",
+        "correct":false},
+            {"text": "vektor proudové hustoty směřuje doprava a vektor intenzity elektrického pole směřuje doleva.",
+        "correct":false},
+            {"text": "vektor proudové hustoty směřuje doleva a vektor intenzity elektrického pole směřuje doprava.",
+        "correct":false}
+        ]
+    },
+
+    {
+        "number": 10,
+        "question": "Jedna ze dvou identických vodivých koulí má náboj +5 µC, druhá -1 µC. Středy obou koulí jsou ve vzdálenosti L. \n Koule jsou uvedeny do kontaktu, pak zaujmou původní polohu. \n Jaký je podíl velikostí elektrických sil mezi nimi v situaci po návratu do původní polohy k situaci před dotykem?",
+        "image":"",
+
+        "answers":[
+            {"text": "1/1",
+        "correct": false},
+            {"text": "9/5",
+        "correct": false},
+            {"text": "4/9",
+        "correct":false},
+            {"text": "4/5",
+        "correct": true},
+            {"text": "5/1",
+        "correct": false}
+        ]
+    },
+
+    {
+        "number": 11,
+        "question": "Tvrzení, že magnetické siločáry tvoří uzavřené křivky, je přímým důsledkem",
+        "image":"",
+
+        "answers":[
+            {"text": "Faradayova zákona.",
+        "correct":false},
+            {"text": "Ampérova zákona.",
+        "correct": false},
+            {"text": "Gaussova zákona pro elektrické pole.",
+        "correct": false},
+            {"text": "Gaussova zákona pro magnetické pole.",
+        "correct":true},
+            {"text": "Lorentzovy síly",
+        "correct":false}
+        ]
+    },
+
+    {
+        "number": 12,
+        "question": "Graf udává časovou závislost velikosti homogenního magnetického pole B(t), které prochází kolmo k rovině vodivé smyčky. \n Určete, ve kterých časových úsecích je indukované emn v této smyčce minimální, avšak nenulové:",
+        "image":"https://moodle.vut.cz/pluginfile.php/588001/question/questiontext/475582/2/52408315/image030.png",
+
+        "answers":[
+            {"text": "shodně v úsecích a a c.",
+        "correct":false},
+            {"text": "ve všech úsecích je stejné.",
+        "correct":false},
+            {"text": "shodně v úsecích d a e.",
+        "correct":true},
+            {"text": "v úseku b",
+        "correct": false},
+            {"text": "v úseku c",
+        "correct":false}
+        ]
+    },
+
+    {
+        "number": 13,
+        "question": "Elektron vstupuje do prostoru, kde působí homogenní magnetické pole B a k němu kolmé homogenní elektrické pole E. \n Je pozorováno, že rychlost elektronu v  je nezměněna. Možné vysvětlení je:",
+        "image":"",
+
+        "answers":[
+            {"text": " v je paralelní k E a má velikost E/B.",
+        "correct":false},
+            {"text": "v je paralelní k B",
+        "correct":false},
+            {"text": "v je kolmá k E i B a má velikost B/E.",
+        "correct":false},
+            {"text":"v je kolmá k E i B a má velikost E/B.",
+        "correct":true},
+            {"text": "taková situace není možná",
+        "correct":false}
+        ]
+    },
+
+    {
+        "number": 14,
+        "question": "Magnetická síla působí na kladně nabitou částici ve směru její rychlosti,",
+        "image":"",
+
+        "answers":[
+            {"text": "pokud má magnetické pole stejný směr jako rychlost částice.",
+        "correct": false},
+            {"text": "pokud má magnetické pole opačný směr než rychlost částice.",
+        "correct":false},
+            {"text": "je výrok popisující situaci, která nikdy nenastane.",
+        "correct":true},
+            {"text": "pokud je k magnetické pole na rychlost částice kolmé a je skloněno o úhel 90° doleva.",
+        "correct": false},
+            {"text": "pokud je k magnetické pole na rychlost částice kolmé a je skloněno o úhel 90° doprava.",
+        "correct":false}
+        ]
+        
+    },
+
+    {
+        "number": 15, 
+        "question": "Elektrony na obrázku se pohybují po kružnici proti směru hodinových ručiček. \n Ve středu kružnice vytváří tyto elektrony magnetické pole, které",
+        "image":"https://moodle.vut.cz/pluginfile.php/588001/question/questiontext/475582/5/52408304/image016.png",
+
+        "answers":[
+            {"text": "je orientováno kolmo směrem do roviny stránky.",
+        "correct":true},
+            {"text": "je orientováno kolmo směrem ven z roviny stránky.",
+        "correct":false},
+            {"text": "směřuje doleva od středu.",
+        "correct":false},
+            {"text": "směřuje doprava od středu.",
+        "correct":false},
+            {"text": "je v tomto bodě nulové.",
+        "correct":false}
+        ]
+    },
+
+    {
+        "number": 16,
+        "question": "Vyberte možnost, která nejlépe vystihuje fyzikální význam následující rovnice: \n int.(c) H * dl = Ic + d(fiD)/dt",
+        "image":"",
+
+        "answers":[
+            {"text": "Zdrojem elektrického pole jsou elektrické náboje. Elektrické siločáry nejsou uzavřené křivky.",
+        "correct": false},
+            {"text": "Neexistují magnetické monopóly. Nejjednodušší magnetická struktura je magnetický dipól.",
+        "correct":false},
+            {"text": "Měnící se magnetické pole vytváří pole elektrické. Elektrické siločáry tvoří uzavřené křivky.",
+        "correct": false},
+            {"text": "Měnící se elektrické pole, stejně jako elektrický proud, jsou zdrojem pole magnetického.",
+        "correct":true}
+        ]
+    },
+
+    {
+        "number": 17,
+        "question": "Pět částic je vystřeleno zleva do oblasti homogenního elektrického pole. \n Jejich trajektorie jsou očíslovány. Částice nesoucí záporný náboj -2Q se pohybuje po trajektorii 1.\n Která trajektorie popisuje pohyb částice nesoucí náboj + Q ?",
+        "image":"https://moodle.vut.cz/pluginfile.php/588001/question/questiontext/434833/5/52408354/image008.png",
+
+        "answers":[
+            {"text": "2",
+        "correct":false},
+            {"text": "4",
+        "correct":true},
+            {"text": "3",
+        "correct":false},
+            {"text": "5",
+        "correct":false},
+            {"text": "Kladná částice se pohybuje kolmo na stránku ve směru k pororovateli.",
+        "correct":false}
+        ]
+    },
+
+    {
+        "number": 18,
+        "question": "Na kterém z následujících grafů je zobrazena velikost intenzity elektrického pole jako funkce vzdálenosti  r  \n od středu nabité vodivé kulové plochy o poloměru  R? (Pozn.: dutá vodivá koule.)",
+        "image": "https://moodle.vut.cz/pluginfile.php/588001/question/answer/434833/4/2570115/image001.png"
+    }
+]
